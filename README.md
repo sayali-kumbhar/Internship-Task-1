@@ -16,4 +16,4 @@ Columns and Descriptions:<br>
 - listed_in: Categories or genres the title falls under ("Documentaries", "TV Dramas").<br>
 - description: The summary description<br>
 <br>
-# task is to classify given show is movie or tv shows from given dataset from provided features.
+task is to classify given show is movie or tv shows from given dataset from provided features.
